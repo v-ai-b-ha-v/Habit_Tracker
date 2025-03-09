@@ -1,6 +1,6 @@
 # habit_tracker
 
-A new Flutter project.
+Habit Tracker made in flutter with Provier and ISAR.
 
 ## Getting Started
 
