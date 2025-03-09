@@ -1,16 +1,9 @@
-# habit_tracker
+#Habit Tracker App
 
-Habit Tracker made in flutter with Provier and ISAR.
+A simple Habit Tracker built using Flutter, Provider (State Management) , and ISAR for offline storage.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features 
+✔️ Track daily habits and visualize progress using a heatmap calendar.
+✔️ Offline support with ISAR for fast local storage.
+✔️ Dark mode toggle using Provider for state management.
+✔️ Edit & delete habits.
